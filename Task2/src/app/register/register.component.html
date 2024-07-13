@@ -1,0 +1,28 @@
+<div style="display: flex;align-items: center;justify-content: center;margin: 20px">
+
+    <form (ngSubmit)="onSubmit()">
+        <div class="mb-3">
+            <label for="exampleInputName1" class="form-label">Name</label>
+            <input type="text" name="name" class="form-control" id="exampleInputName1" [(ngModel)]="name">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPhoneNumber1" class="form-label">Phone Number</label>
+            <input type="number" name="phoneNumber" minlength="10" maxlength="10" class="form-control" id="exampleInputPhoneNumber1" [(ngModel)]="phoneNumber">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Email address</label>
+            <input type="email" class="form-control" name="email" id="exampleInputEmail1" aria-describedby="emailHelp" [(ngModel)]="email">
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Password</label>
+            <input type="password" name="password" class="form-control" id="exampleInputPassword1" [(ngModel)]="password">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputAddress1" class="form-label">Address</label>
+            <input type="text" name="address" class="form-control" id="exampleInputAddress1" [(ngModel)]="address">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>

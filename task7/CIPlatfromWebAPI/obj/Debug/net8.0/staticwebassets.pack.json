@@ -1,0 +1,465 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160340.docx",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160340.docx"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160921.docx",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160921.docx"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161205.docx",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161205.docx"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161312.docx",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161312.docx"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\TS_Resume_SE_Sankuj_20221221164013_20221223160527.docx",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\MissionDoc\\TS_Resume_SE_Sankuj_20221221164013_20221223160527.docx"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\addtocart_20221223155952.txt",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\MissionDoc\\addtocart_20221223155952.txt"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\addtocart_20221223161040.txt",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\MissionDoc\\addtocart_20221223161040.txt"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\link_20221223155829.txt",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\MissionDoc\\link_20221223155829.txt"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\10_20240501105157.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\10_20240501105157.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240313164643.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\11_20240313164643.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240321142440.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\11_20240321142440.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\12_20240313164643.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\12_20240313164643.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\21_20240313164643.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\21_20240313164643.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\21_20240321142440.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\21_20240321142440.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\22_20240313164643.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\22_20240313164643.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\22_20240321142440.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\22_20240321142440.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240531072248.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240531072248.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240531072420.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\2_20240531072420.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\31_20240313164643.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\31_20240313164643.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\31_20240321142440.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\31_20240321142440.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\4_20240409101227.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\4_20240409101227.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\7_20240531073655.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\7_20240531073655.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\7_20240531074038.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\7_20240531074038.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102419.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102501.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240409102501.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240531075259.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240531075259.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240531075328.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\8_20240531075328.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223160110.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223160110.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161040.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161040.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161205.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161205.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160110.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160110.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160340.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160340.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160921.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160921.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223155829.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223155829.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223160110.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223160110.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223161312.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223161312.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-2_20221223160234.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-2_20221223160234.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-3_20221223160527.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-3_20221223160527.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-5_20221223161205.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-5_20221223161205.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-login_20221223161040.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-login_20221223161040.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability_20221223160921.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability_20221223160921.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Nourish-the-Children-in--African-country_20221223160527.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Nourish-the-Children-in--African-country_20221223160527.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223155952.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Plantation_20221223155952.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223160527.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Plantation_20221223160527.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223161205.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Plantation_20221223161205.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131253.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131253.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131310.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131310.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131318.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131318.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131323.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131323.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131326.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131326.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131330.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131330.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131331.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131331.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710132702.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710132702.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223160527.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\image1_20221223160527.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223160921.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\image1_20221223160921.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223161205.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\image1_20221223161205.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image2_20221223155829.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\image2_20221223155829.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image2_20221223161312.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\image2_20221223161312.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img1_20221223160921.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\img1_20221223160921.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img22_20221223155952.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\img22_20221223155952.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img22_20221223161205.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\img22_20221223161205.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223155829.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\img2_20221223155829.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223155952.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\img2_20221223155952.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223160527.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\img2_20221223160527.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img33_20221223160527.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\img33_20221223160527.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img_20221223155829.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\Mission\\img_20221223155829.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\34_20240311113940.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\34_20240311113940.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Animal-welfare-_-save-birds-campaign-1_20221206151140.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\Animal-welfare-_-save-birds-campaign-1_20221206151140.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221206150602.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221206150602.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221215100327.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221215100327.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221206151509.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221206151509.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability_20221215100327.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability_20221215100327.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Nourish-the-Children-in--African-country_20221206151038.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\Nourish-the-Children-in--African-country_20221206151038.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Plantation-and-Afforestation-programme-1_20221209124034.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\Plantation-and-Afforestation-programme-1_20221209124034.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206143250.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\image_20221206143250.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206144118.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\image_20221206144118.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206144511.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\image_20221206144511.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206145052.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\image_20221206145052.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206145347.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\image_20221206145347.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206143302.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img11_20221206143302.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206144125.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img11_20221206144125.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206144517.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img11_20221206144517.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206145052.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img11_20221206145052.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206145347.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img11_20221206145347.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221215100327.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img11_20221215100327.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221206145610.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img1_20221206145610.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221206151038.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img1_20221206151038.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221215100327.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img1_20221215100327.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img22_20221206150249.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img22_20221206150249.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img33_20221206150249.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img33_20221206150249.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img3_20221206150249.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img3_20221206150249.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img_20221206145610.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img_20221206145610.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img_20221215100327.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\ShareStory\\img_20221215100327.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\10_20240425112609.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\10_20240425112609.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\10_20240501105319.jpeg",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\10_20240501105319.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212102620.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer1_20221212102620.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212102920.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer1_20221212102920.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212103211.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer1_20221212103211.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer2_20221212130914.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer2_20221212130914.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer3_20221212130311.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer3_20221212130311.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219102934.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer4_20221219102934.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219113054.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer4_20221219113054.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219113055.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer4_20221219113055.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212123408.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer5_20221212123408.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212123602.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer5_20221212123602.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212124248.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer5_20221212124248.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212130607.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer5_20221212130607.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212130620.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer5_20221212130620.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20240311120643.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer5_20240311120643.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer7_20221212122933.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer7_20221212122933.png"
+    },
+    {
+      "Id": "C:\\Users\\Shivam\\Documents\\Projects\\tatvasoft\\task7\\CIPlatfrom\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer9_20221212183430.png",
+      "PackagePath": "staticwebassets\\UploadMissionImage\\UserImage\\volunteer9_20221212183430.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web_API.props",
+      "PackagePath": "build\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web_API.props",
+      "PackagePath": "buildMultiTargeting\\Web_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web_API.props",
+      "PackagePath": "buildTransitive\\Web_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

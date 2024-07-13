@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\asus\\desktop\\dotnet\\new\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\asus\\desktop\\dotnet\\new\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\data_access_layer\\dalmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E494A2C4-65D9-446D-B874-464852E976E3}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dalmissionskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\asus\\desktop\\dotnet\\new\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|c:\\users\\asus\\desktop\\dotnet\\new\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi_postgresql-master\\ciplatfromwebapi\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712AEA19-E172-4252-B857-741D582FDCA3}|CIPlatfromWebAPI\\Web_API.csproj|solutionrelative:ciplatfromwebapi\\controllers\\missionskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DALMissionSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALMissionSkill.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DALMissionSkill.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\DALMissionSkill.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DALMissionSkill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:30:37.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\appsettings.json",
+              "RelativeToolTip": "CIPlatfromWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T10:26:17.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MissionSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionSkillController.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Controllers\\MissionSkillController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Controllers\\MissionSkillController.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Controllers\\MissionSkillController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T10:25:12.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CIPlatfromWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\Program.cs",
+              "RelativeToolTip": "CIPlatfromWebAPI\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:50:20.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
